@@ -61,7 +61,7 @@ export default function Header() {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link href="/" className="text-ycp-primary font-bold flex items-center">
           <img 
-            src="/logo.png" 
+            src="/1logo.png" 
             alt="Alcome Consulting Logo" 
             className={`transition-all duration-300 ${scrolled ? 'h-8 md:h-10' : 'h-10 md:h-12'} w-auto object-contain`}
           />
