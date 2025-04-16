@@ -25,7 +25,7 @@ export default function Home() {
       <CaseStudiesSection />
       {/* <MediaSection /> */}
       {/* <PublicationsSection /> */}
-      <ExpertsSection />
+      {/* <ExpertsSection /> */}
       <ContactSection />
       <Footer />
     </main>
